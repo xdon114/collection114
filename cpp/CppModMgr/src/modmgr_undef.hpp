@@ -1,0 +1,13 @@
+#undef MODMGR_HPP
+#undef MODMGR_VER
+#undef NS_BEG
+#undef NS_END
+#undef MOD_BEG
+#undef MOD_END
+#undef DET_BEG
+#undef DET_END
+#undef _MOD_CONT_NS
+#undef _MOD_NS
+#undef MOD_USE
+#undef MOD_USE_ALL
+#undef DET_USE
