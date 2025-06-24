@@ -1,0 +1,9 @@
+#undef CXX_MOD__CXX_MOD_HPP
+#undef _MOD_BEGIN
+#undef _MOD_END
+#undef _MOD_NS
+#undef MOD_BEGIN
+#undef MOD_END
+#undef USE_MOD
+#undef ALL_FROM_MOD
+#undef FROM_MOD
